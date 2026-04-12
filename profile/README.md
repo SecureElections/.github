@@ -11,3 +11,4 @@ SecureElections eliminates the possibility of that happening.
 We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.
 
 .
+<picture>
