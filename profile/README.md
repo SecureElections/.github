@@ -7,8 +7,8 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 
 ### **We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.**  <sub><ins>No encryption by us</ins></sub><br/>
 
-Self-hostable platforms. We realese the software on this site.
-Plain-Text passwords are being prevented.
+We realese the software on this site. 
+Clear text passwords are being prevented.
 
 The security in our system is ensured with the prevention plain-text passwords.
 We will not host platforms for you. Software that can be run on your platform will be realeased by us on this site.
