@@ -10,10 +10,9 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 The security in our system is ensured with the prevention plain-text passwords.
 We will not host platforms for you. Software that can be run on your platform will be realeased by us on this site.
 Go eliminates memory leaks.
-<sub>No encryption/encoding by us</sub>.
 <br/><br/><br/>
 
-[^1]: Hi
+[^1]: <sub>No encryption/encoding by us</sub>.
 
 
 Self-hostable platforms. We realese the software on this site.
