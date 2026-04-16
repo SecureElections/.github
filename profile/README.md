@@ -13,7 +13,7 @@ Go eliminates memory leaks.
 No encryption/encoding by us.
 <br/><br/><br/>
 
-[^1].
+Information[^1].
 
 [^1]: Hi
 
