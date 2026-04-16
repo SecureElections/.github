@@ -1,4 +1,4 @@
-# Welcome to SecureElections. [^1]
+# Welcome to SecureElections.
 
 ### <ins>We aim to provide secure and reliable software for goverment elections of all sizes</ins>.<br/>
 Government elections have weak Points during the transmission of Data.<br/>
@@ -13,7 +13,7 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 - Clear text passwords are being prevented.<br/>
 
 
-## <ins>We will not host platforms for you.</ins>
+## <ins>We will not host platforms for you.</ins>   [^1]
 <br/><br/><br/>
 
 [^1]: .
