@@ -5,7 +5,7 @@
 
 Government elections have different weak Points during the transmission of Data from the election.
 
-Memory leaks can be used to sabotage the election outcome. 
+Memory leaks can be used to sabotage the election outcome. Go ensures the eliminination of the most important memory leaks. 
 
 SecureElections eliminates the possibility of that happening.
 
