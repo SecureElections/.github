@@ -9,7 +9,7 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 
 - <ins>No</ins> encryption by us<br/>
 - We realese the software on this site.<br/>
-- You can run our system on any self-hosted platform.<br/><br/>
+- You can run our system on any self-hosted platform.<br/>
 - Clear text passwords are being prevented.<br/>
 
 The security in our system is ensured with the prevention plain-text passwords.
