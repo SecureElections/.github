@@ -3,9 +3,9 @@
 ### <ins>We aim to provide secure and reliable software for goverment elections of all sizes</ins>.
 
 
-Government elections have different weak Points during the transmission of Data from the election.
-
-Memory leaks can be used to sabotage the election outcome. Go ensures the eliminination of the most important memory leaks.<br/><br/><br/><br/>SecureElections eliminates the possibility of that happening.
+Government elections have different weak Points during the transmission of Data from the election.<br/>
+Memory leaks can be used to sabotage the election outcome.<br/>
+Go ensures the eliminination of the most important memory leaks.<br/>
 
 **We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.**
 
