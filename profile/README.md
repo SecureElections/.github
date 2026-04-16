@@ -11,6 +11,10 @@ The security in our system is ensured with the prevention plain-text passwords.
 We will not host platforms for you. Software that can be run on your platform will be realeased by us on this site.
 Go eliminates memory leaks.
 No encryption/encoding by us.
+<br/><br/><br/>[!Note]
+
+
+
 
 Self-hostable platforms. We realese the software on this site.
 Plain-Text passwords are being prevented.
