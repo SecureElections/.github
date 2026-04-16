@@ -11,7 +11,8 @@ The security in our system is ensured with the prevention plain-text passwords.
 We will not host platforms for you. Software that can be run on your platform will be realeased by us on this site.
 Go eliminates memory leaks.
 No encryption/encoding by us.
-<br/><br/><br/>[!Note]
+<br/><br/><br/>
+[!Note]
 
 
 
