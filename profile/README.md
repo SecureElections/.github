@@ -13,7 +13,7 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 - Clear text passwords are being prevented.<br/>
 
 
-We will not host platforms for you.
+## <ins>We will not host platforms for you.</ins>
 <br/><br/><br/>
 
 [^1]: .
