@@ -1,4 +1,4 @@
-# Welcome to SecureElections
+# Welcome to SecureElections[^1]
 
 ### <ins>We aim to provide secure and reliable software for goverment elections of all sizes</ins>.
 Government elections have weak Points during the transmission of Data.<br/>
