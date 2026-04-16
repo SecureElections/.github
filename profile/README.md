@@ -1,11 +1,11 @@
 # Welcome to SecureElections.
 
 ### <ins>We aim to provide secure and reliable software for goverment elections of all sizes</ins>.<br/>
-:-Government elections have weak Points during the transmission of Data.
+-Government elections have weak Points during the transmission of Data.
 <br/><br/>
-Memory leaks can be used to sabotage the election outcome.
+-Memory leaks can be used to sabotage the election outcome.
 <br/><br/>
-Go ensures the eliminination of the most important memory leaks.
+-Go ensures the eliminination of the most important memory leaks.
 <br/><br/>
 
 ### **We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.**<br/>
