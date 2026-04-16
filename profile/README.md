@@ -12,10 +12,10 @@ We will not host platforms for you. Software that can be run on your platform wi
 Go eliminates memory leaks.
 No encryption/encoding by us.
 <br/><br/><br/>
-[!Note]
-Useful information.
 
+Useful information[^1].
 
+[^1]: Hi
 
 
 Self-hostable platforms. We realese the software on this site.
