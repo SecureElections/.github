@@ -9,3 +9,7 @@ An unsafe system can be used to sabotage the election outcome.
 SecureElections eliminates the possibility of that happening.
 
 We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.
+
+Self-hostable platforms. We realese the software on this site. 
+Plain-Text passwords are being prevented. Go eliminates memory leaks. 
+No encryption/encoding by us.
