@@ -13,9 +13,9 @@ Go ensures the eliminination of the most important memory leaks.<br/>
 - Clear text passwords are being prevented.<br/>
 
 
-## <ins>We will not host platforms for you.</ins>   [^1]
+## <ins>We will not host platforms for you.</ins> [^1]
 <br/><br/><br/>
 
-[^1]: .
+[^1]: How to run your own plattform.
 
 <br/><br/><br/>
