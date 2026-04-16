@@ -15,10 +15,7 @@
 - You can run our system on any self-hosted platform.<br/>
 - Clear text passwords are being prevented.<br/>
 
-
 ## <ins>We will not host platforms for you.</ins> [^1]
 <br/><br/><br/>
 
 [^1]: How to run your own plattform.
-
-<br/><br/><br/>
