@@ -5,11 +5,12 @@ Government elections have weak Points during the transmission of Data.<br/>
 Memory leaks can be used to sabotage the election outcome.<br/>
 Go ensures the eliminination of the most important memory leaks.<br/>
 
-### **We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.**
+### **We offer an <ins>user-friendly</ins> system with a strong focus on <ins>security</ins>.**<br/>
 
--<ins>No encryption by us</ins>
-We realese the software on this site. You can run our system on any self-hosted platform.
-Clear text passwords are being prevented.
+- <ins>No encryption by us</ins><br/>
+- We realese the software on this site.<br/>
+- You can run our system on any self-hosted platform.<br/>
+Clear text passwords are being prevented.<br/>
 
 The security in our system is ensured with the prevention plain-text passwords.
 We will not host platforms for you. Software that can be run on your platform will be realeased by us on this site.
