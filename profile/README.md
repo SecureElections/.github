@@ -18,4 +18,4 @@
 ## <ins>We will not host platforms for you.</ins> [^1]
 <br/><br/><br/>
 
-[^1]: How to run your own plattform.
+[^1]: (In progress) How to run your own plattform.
